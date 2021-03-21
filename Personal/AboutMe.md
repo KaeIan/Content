@@ -1,4 +1,4 @@
-![Kaelan Picture](/Images/portrait.JPG)
+![Kaelan Picture](/Images/portrait.jpg)
 
 Hi,
 
