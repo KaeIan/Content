@@ -149,9 +149,9 @@ These Last couple are purely for Aesthetics, just to spice things up you can als
 }
 ```
 
-![Wallpaper Background Theme Demo](Assets/beautiful-windows-terminal\PowerShellStylish.png)
+![Wallpaper Background Theme Demo](Assets/beautiful-windows-terminal/PowerShellStylish.png)
 
-![Retro Theme Demo](Assets/beautiful-windows-terminal\Retroshell.png)
+![Retro Theme Demo](Assets/beautiful-windows-terminal/RetroShell.png)
 
 The customisation here is extensive, you could for example add your corporate logo to the theming of the terminal, which is a nice touch. You will notice I specified the `commandline` path to the executables, not sure why but If I just used `windows PowerShell core`, the profile was not being detected.
 
