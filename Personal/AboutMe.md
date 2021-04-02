@@ -61,6 +61,8 @@ I am available for development of freelance or open source projects.
 
 2017 - 2018
 
+
+
 ## Interests
 
-I am intensely interested in fantasy, science fiction and psychology. Much of my spare time involves reading, writing, drawing, listening to podcasts or playing video games in these categories. In particular I like Star Wars, Warhammer 40k (and fantasy) and learning about philosophy. I also enjoy socializing and having board game nights or playing card games.
+I am intensely interested in fantasy, science fiction and psychology. My spare time involves reading, writing, drawing, listening to podcasts or playing video games in these categories. In particular I like Star Wars, Warhammer 40k, Warhammer Fantasy and learning about philosophy. I also enjoy socializing and having board game nights or playing card games.
