@@ -1,27 +1,29 @@
+## About Me
+
 ![Kaelan Picture](/Images/portrait.jpg)
 
 Hi,
 
-I am Kaelan Reece, a Brisbane based Software Engineer who is passionate about building high quality, user centred applications. I enjoy problem solving, challenging myself and am eager to meet new people and explore new places.
+I am Kaelan Reece, an Australian Software Engineer who is passionate about building high quality applications which have a positive impact on society. I enjoy problem solving, challenging myself and am eager to meet new people and explore new places.
 
 I am available for development of freelance or open source projects.
 
 ## Skills
 
 * Software Architecture & Design
+* Full Stack Web/Mobile Development
 * Agile Project Management & Development
 * Technical Writing & Documentation
-* Front/Back End Web Development
-* Mobile Development
 
-## Technical Competencies
+## Professional Experience
 
 ### Full Stack Web Development
 
-* ASP Net Core (C#) & Entity Framework
-* Databases (PostgreSQL, SQL Server & MySQL)
-* React
+* ASP Net Core & Entity Framework
+* PostgreSQL, SQL Server & MySQL
+* React & React Native
 * HTML, SCSS, JavaScript
+* Razor Pages
 
 ### Languages
 
@@ -41,32 +43,24 @@ I am available for development of freelance or open source projects.
 
 ## Qualifications
 
-* Bachelor of Business (Marketing) - QUT 2013 - 2020
+* Bachelor of Business (Marketing) from QUT 
 
-* Bachelor of Information Technology (Computer Science) - QUT 2013 - 2020
+* Bachelor of Information Technology (Computer Science) rom QUT
 
 ## Experience
 
-* Bot Squad Lead
+**Senior Software Engineer, Codebots**
 
-Codebots/WorkingMouse - Brisbane QLD
 2019 - 2020
 
-* Lead Tools Engineer
+**Lead Tools Engineer, WorkingMouse**
 
-WorkingMouse - Brisbane QLD
 2018 - 2019
 
-* Tools Engineer
+**Tools Engineer, WorkingMouse**
 
-Working Mouse - Brisbane QLD
 2017 - 2018
 
 ## Interests
 
-* Video Games
-* Modding
-* Reading
-* Writing Science Fiction
-* Board Games
-* Card Games
+I am intensely interested in fantasy, science fiction and psychology. Much of my spare time involves reading, writing, drawing, listening to podcasts or playing video games in these categories. In particular I like Star Wars, Warhammer 40k (and fantasy) and learning about philosophy. I also enjoy socializing and having board game nights or playing card games.
