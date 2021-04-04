@@ -38,30 +38,24 @@ I am available for development of freelance or open source projects.
 * Git
 * Linux
 * Docker
-
 * Adobe Photoshop, Premier & Illustrator
 
 ## Qualifications
 
-* Bachelor of Business (Marketing) from QUT 
+* Bachelor of Business (Marketing) from QUT
 
 * Bachelor of Information Technology (Computer Science) rom QUT
 
 ## Experience
 
 **Senior Software Engineer, Codebots**
-
 2019 - 2020
 
 **Lead Tools Engineer, WorkingMouse**
-
 2018 - 2019
 
 **Tools Engineer, WorkingMouse**
-
 2017 - 2018
-
-
 
 ## Interests
 
