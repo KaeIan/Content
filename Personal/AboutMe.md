@@ -4,9 +4,11 @@
 
 Hi,
 
-I am Kaelan Reece, an Australian Software Engineer who is passionate about building high quality applications which have a positive impact on society. I enjoy problem solving, challenging myself and am eager to meet new people and explore new places.
+I am Kaelan Reece, and I am an Australian Software Engineer.
 
-I am available for development of freelance or open source projects.
+I am passionate about building high-quality applications which have a positive impact on society. I enjoy solving problems, challenging myself, meeting new people and explore new places.
+
+I am available for the development of freelance or open-source projects.
 
 ## Skills
 
@@ -44,7 +46,7 @@ I am available for development of freelance or open source projects.
 
 * Bachelor of Business (Marketing) from QUT
 
-* Bachelor of Information Technology (Computer Science) rom QUT
+* Bachelor of Information Technology (Computer Science) from QUT
 
 ## Experience
 
@@ -59,4 +61,4 @@ I am available for development of freelance or open source projects.
 
 ## Interests
 
-I am intensely interested in fantasy, science fiction and psychology. My spare time involves reading, writing, drawing, listening to podcasts or playing video games in these categories. In particular I like Star Wars, Warhammer 40k, Warhammer Fantasy and learning about philosophy. I also enjoy socializing and having board game nights or playing card games.
+I am intensely interested in fantasy, science fiction and psychology. My spare time involves reading, writing, drawing, listening to podcasts or playing video games in these categories. I particularly enjoy Star Wars, Warhammer 40k, Warhammer Fantasy and learning about philosophy. I also enjoy socializing and having board game nights or playing card games.
