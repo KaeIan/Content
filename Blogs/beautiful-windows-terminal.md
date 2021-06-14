@@ -73,7 +73,7 @@ This is the terminal I spend the most time in so I start by setting it to my fav
 
 It can be useful to set the `startingDirectory`
 
-![PowerShell 7 Profile Demo](Assets/beautiful-windows-terminal/Powershell7.png){loading="lazy"}
+![PowerShell 7 Profile Demo](Assets/beautiful-windows-terminal/Powershell7.jpg){loading="lazy"}
 
 ### PowerShell 5
 
@@ -110,7 +110,7 @@ Like the previous profile, we can set the `background` and `tabColor` to reflect
 },
 ```
 
-![WSL Profile Demo](Assets/beautiful-windows-terminal/Wsl.png){loading="lazy"}
+![WSL Profile Demo](Assets/beautiful-windows-terminal/Wsl.jpg){loading="lazy"}
 
 I do not find myself spending a great deal of time in the WSL terminal, otherwise I would have prettied it up a bit with ZSH and its many lovely modules.
 
@@ -120,7 +120,7 @@ I usually use SSH in my WSL as opposed to the OpenSSH in PowerShell because it j
 
 The benefit of styling your profiles uniquely comes when you are using multiple profiles at the same time. A typical scenario I will use is to have a server-side process running in one panel, client-side in the other and possibly a remote system in the third. I can tell instantly which ones are running PowerShell on my own machine and which ones are Linux based shells on another. No confusion, no random windows all over the place, similar to the example below, you can lay it out exactly how you want.
 
-![Multiple Profiles Demo](Assets/beautiful-windows-terminal/Multiple-Windows.png){loading="lazy"}
+![Multiple Profiles Demo](Assets/beautiful-windows-terminal/Multiple-Windows.jpg){loading="lazy"}
 
 ## Aesthetic Profiles
 
@@ -150,7 +150,7 @@ The last couple are purely for Aesthetics, just to spice things up you can also 
 }
 ```
 
-![Wallpaper Background Theme Demo](Assets/beautiful-windows-terminal/PowerShellStylish.png){loading="lazy"}
+![Wallpaper Background Theme Demo](Assets/beautiful-windows-terminal/PowerShellStylish.jpg){loading="lazy"}
 
 ![Retro Theme Demo](Assets/beautiful-windows-terminal/RetroShell.png){loading="lazy"}
 

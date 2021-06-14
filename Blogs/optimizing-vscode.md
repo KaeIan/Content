@@ -108,7 +108,7 @@ I wont bother to list out many language specific extensions because there is one
 
 I cannot recommend enough the Iconic Atom [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme){target="__blank"} theme and the [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme){target="__blank"}. This theming is easy on the eyes and has a beautiful colour pallette.
 
-![VS Code Image Theme](Assets/optimizing-vscode/vscode-theming.png){loading="lazy"}
+![VS Code Image Theme](Assets/optimizing-vscode/vscode-theming.jpg){loading="lazy"}
 
 I searched extensively but could not come up with a viable alternative light theme to the default `Light (+)` VS Code theme. If anyone ends up finding (or creating one) I would be very interested.
 

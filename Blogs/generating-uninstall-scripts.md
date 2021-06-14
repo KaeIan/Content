@@ -34,7 +34,7 @@ However, as I alluded to earlier, this is not simple because you need to put tho
 6. An uninstall script will be generated in the root folder you specified.
 7. Verify the uninstall scripts works as expected.
 
-![Generate Example](Assets/generating-uninstall-scripts/generate-example.png){loading="lazy"}
+![Generate Example](Assets/generating-uninstall-scripts/generate-example.jpg){loading="lazy"}
 
 > Warning: Please verify the generated uninstall script was created correctly and ONLY removing what it should, it is your responsibility to ensure the uninstall script does not do undue harm.
 
