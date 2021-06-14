@@ -7,7 +7,8 @@ tags:
     - Profile
     - Module
     - Function
-published: 2020-04-10
+published: 2021-04-10
+lastEdited: 2021-06-14
 length: 4
 ---
 
@@ -17,7 +18,7 @@ The PowerShell profile is the code executed while the session is starting up and
 
 **[Terminal-Icons](https://github.com/devblackops/Terminal-Icons){target="__blank"}** is a PowerShell module which shows file and folder icons in the terminal colour codes them. This module requires [Nerd Fonts](https://www.nerdfonts.com/font-downloads){target="__blank"}, but I would specifically recommend my personal favourite terminal font, `Caskaydia Cove Nerd Fonts` which was designed with Windows terminal and supports font ligatures.
 
-![Terminal Icons Demo](Assets/powershell-profile-essentials/terminal-icons.png)
+![Terminal Icons Demo](Assets/powershell-profile-essentials/terminal-icons.png){loading="lazy"}
 
 > Note: You will need a terminal which supports these characters, I would recommend Windows Terminal.
 
@@ -45,7 +46,7 @@ Set-PoshPrompt -Theme "<path to config file>"
 
 For more information on customisation and theming you can visit the [official documentation](https://ohmyposh.dev/docs/){target="__blank"} which are quite comprehensive.
 
-![Oh my posh Demo](Assets/powershell-profile-essentials/oh-my-posh.png)
+![Oh my posh Demo](Assets/powershell-profile-essentials/oh-my-posh.png){loading="lazy"}
 
 [**PSReadline**](https://github.com/PowerShell/PSReadLine){target="__blank"} actually comes pre-installed in PowerShell, but I would recommend upgrading to a newer version. This module updates the commandline editing experience of PowerShell with improved autocompletion, key bindings, interactive history search and a host of other features.
 
@@ -83,7 +84,7 @@ Set-PSReadLineOption -PredictionSource History
 Set-PSReadLineOption -Colors @{InlinePrediction = "`e[90m" }
 ```
 
-![PSReadline Demo](Assets/powershell-profile-essentials/psreadline.png)
+![PSReadline Demo](Assets/powershell-profile-essentials/psreadline.png){loading="lazy"}
 
 This is a neat one my friend sent me, simply bind the creation of a GUID to a shortcut, beats going to a random website to grab a GUID.
 
@@ -137,7 +138,7 @@ function Get-ChildBranches() {
 
 `Get-ChildBranches` will return the following output.
 
-![Get Branches Demo](Assets/powershell-profile-essentials/get-branches.png)
+![Get Branches Demo](Assets/powershell-profile-essentials/get-branches.png){loading="lazy"}
 
 This one also speeds up my workflow.
 

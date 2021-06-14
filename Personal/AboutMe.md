@@ -1,6 +1,6 @@
 ## About Me
 
-![Kaelan Picture](/Images/portrait.jpg)
+![Kaelan Picture](/Images/portrait.jpg){loading="lazy"}
 
 Hi,
 
