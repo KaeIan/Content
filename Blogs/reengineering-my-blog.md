@@ -51,7 +51,7 @@ This removes many of the features of a full web application, because I actually 
 
 Despite the fact I just made a critical technical decision, I was not ready to settle on a tech stack, I wanted to make sure I considered the user experience first. Thankfully I could re-use the research and designs from the previous version with minor modifications. I designed web first and then considered how the mobile view would look. I found this relatively straightforward. I do not mean to say this is easy, designers do great work, I just had the advantage of a simple design and project scope.
 
-![Blog Design](Assets/reengineering-my-blog/design.jpg)
+![Blog Design](Assets/reengineering-my-blog/design.jpg){loading="lazy"}
 
 ### Audience
 
@@ -67,7 +67,7 @@ The most important part of implementing the key improvements is the architecture
 
 The following chart compares the average dom load time between the versions. The old blog site had no data, despite this, the middleware is more complex, it needs authorisation as well as JavaScript  execution for page rendering. The new blog site does not need to do either of these things and just sends the html straight to the end user. If the old version did have data I would expect these numbers to explode up as you add on the time for retrieving and processing endpoints (including database) and the growing side of the client side codebase to download. Essentially what I am  comparing here is a client vs server side rendered application,  which of course the server side rendered is faster. My point here is pick the best one for the right job, not just the tool you are  most  comfortable  with. If you are building an interactive web application, server side rendered might not be for you.
 
-![Page Load  Chart Comparison](Assets/reengineering-my-blog/page-load-chart.png)
+![Page Load  Chart Comparison](Assets/reengineering-my-blog/page-load-chart.png){loading="lazy"}
 
 The minimum and  maximum  load time are found to be more than 50% faster.
 
@@ -91,11 +91,11 @@ Option 3 meant the blog would always be up to date, but I would be dependent on 
 
 The new process is demonstrated below:
 
-![New Blog Request Process](Assets/reengineering-my-blog/new-site-process.jpg)
+![New Blog Request Process](Assets/reengineering-my-blog/new-site-process.jpg){loading="lazy"}
 
 This compares to the process in my old SPA application. Client goes to server, which goes to database which materialises a server side model which is then put into a client  side model. As seen below.
 
-![Old Blog Request Process](Assets/reengineering-my-blog/old-site-process.jpg)
+![Old Blog Request Process](Assets/reengineering-my-blog/old-site-process.jpg){loading="lazy"}
 
 There is absolutely  nothing wrong with this, in  fact it is standard middleware, but it is slower and requires more processing.
 
@@ -174,4 +174,3 @@ While it  would be trivial to implement tracking or advertisements in an attempt
 ## Closing Remarks
 
 I have found as you grow in knowledge, experience and skill as a Software Engineer, it can become easy to overengineer by blinidly following familiar technologies and mindsets. Reengineering this website was an effective way to increase my confidence, apply learnings from my prior mistakes and emphasised the ever necessary importance of simplifying problems. While the requirements for this project remained largely the same, I took a completely different approach which led to a greater product. I was pleased to build this website and believe the project  overall has made me a better developer.
-
