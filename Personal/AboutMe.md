@@ -50,20 +50,20 @@ I am available for the development of freelance or open-source projects.
 ## Experience
 
 **Senior Software Engineer, Codebots**<br />
-(2019 - 2020)
+(2019 - 2021)
 
 * Cross Platform Full Stack Web Development
 * Systems Engineering
 * Scrum Master
 
 **Lead Tools Engineer, WorkingMouse**<br />
-(2018 - 2019)
+(2019)
 
 * Head of DevOps
 * Management, Training and onboarding
 
 **Tools Engineer, WorkingMouse**<br />
-(2017 - 2018)
+(2018 - 2019)
 
 * Cross Platform Mobile Application Development
 * Full Stack Web Development
