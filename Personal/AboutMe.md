@@ -6,13 +6,9 @@ Hi,
 
 I am Kaelan Reece, and I am an Australian Software Engineer.
 
-I am passionate about building high-quality applications which have a positive impact on society. I enjoy solving problems, challenging myself, meeting new people and explore new places.
+I am passionate about building high-quality applications which have positively impact on society and improve quality of life. I enjoy solving problems, challenging myself, meeting new people and explore new places.
 
 I am available for the development of freelance or open-source projects.
-
-## Professional Goal
-
-To apply the combined knowledge and technical Software Engineering and Business skills I have acquired to positively impact society and improve quality of life.
 
 ## Skills
 
